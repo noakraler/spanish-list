@@ -1,0 +1,322 @@
+Perro
+Gato
+León
+Tigre
+Elefante
+Jirafa
+Cebra
+Lobo
+Zorro
+Oso
+Conejo
+Caballo
+Delfín
+Águila
+Tortuga
+Cocodrilo
+Pingüino
+Ardilla
+Murciélago
+Rinoceronte
+Hipopótamo
+Serpiente
+Camello
+Ciervo
+Canguro
+Pulpo
+Ballena
+Tiburón
+Búho
+Pato
+Gallo
+Pavo
+Ratón
+Mapache
+Hormiga
+Mariposa
+Saltamontes
+Escorpión
+Ciempiés
+Caracol
+Nutria
+Castor
+Erizo
+Topillo
+Llama
+Ornitorrinco
+Mofeta
+Coyote
+Jaguar
+Puma
+Lince
+Serval
+Chacal
+Gorila
+Chimpancé
+Orangután
+Babuino
+Mono
+Mandril
+Dugongo
+Manatí
+Foca
+Morsa
+Narval
+Calamar
+Medusa
+Estrella de mar
+Erizo de mar
+Cangrejo
+Langosta
+Langostino
+Caballito de mar
+Mantarraya
+Pez espada
+Pez globo
+Atún
+Salmón
+Trucha
+Piraña
+Anguila
+Esturión
+Carpa
+Barracuda
+Pez payaso
+Pez luna
+Pez volador
+Serpiente de cascabel
+Cobra
+Boa
+Pitón
+Lagarto
+Camaleón
+Iguana
+Gecko
+Dragón de Komodo
+Anolis
+Tortuga marina
+Tortuga de tierra
+Salamandra
+Tritón
+Rana
+Sapo
+Ajolote
+Albatros
+Cisne
+Ganso
+Paloma
+Cuervo
+Halcón
+Águila real
+Águila harpía
+Cóndor
+Gavilán
+Golondrina
+Colibrí
+Carpintero
+Avestruz
+Casuario
+Ñandú
+Kiwi
+Pavo real
+Guacamayo
+Loro
+Cotorra
+Periquito
+Canario
+Ruiseñor
+Zorzal
+Petirrojo
+Estornino
+Gorrión
+Cuclillo
+Tordo
+Urraca
+Cernícalo
+Chotacabras
+Vencejo
+Gaviota
+Pardela
+Alcatraz
+Cormorán
+Pelícano
+Fragata
+Faisán
+Codorniz
+Perdiz
+Chorlito
+Correlimos
+Ave del paraíso
+Calandria
+Búho real
+Lechuza
+Papamoscas
+Martín pescador
+Piquituerto
+Picozapato
+Gaur
+Bisonte
+Búfalo
+Yak
+Órix
+Ñu
+Eland
+Cebra de Grevy
+Tapir
+Equidna
+Lémur
+Aye-aye
+Colugo
+Pangolín
+Gálago
+Tarsier
+Tuatara
+Suricata
+Dik-dik
+Okapi
+Agutí
+Capibara
+Coendú
+Paca
+Kinkajú
+Numbat
+Wombat
+Dingo
+Quokka
+Quoll
+Diablo de Tasmania
+Marsupial
+Canguro arborícola
+Bandicut
+Cazador de miel
+Dragón barbudo
+Dragón de agua
+Serpiente marina
+Morena
+Faisán dorado
+Zorro del desierto
+Jerbo
+Dromedario
+Elefante marino
+Almiquí
+Musaraña
+Ratón espinoso
+Cabra montés
+Tarántula
+Escarabajo pelotero
+Mantis religiosa
+Luciérnaga
+Ciempiés gigante
+Milpiés
+Hormiga león
+Gorgojo
+Chinche de agua
+Termita
+Mariposa monarca
+Gorgojo del maíz
+Polilla
+Libélula
+Mosquito tigre
+Muscara
+Avispa
+Abejorro
+Saltamontes verde
+Grillo
+Grillo topo
+Carpintero negro
+Cuco
+Abeja melífera
+Araña de seda dorada
+Araña violinista
+Araña errante brasileña
+Tarántula azul
+Escorpión emperador
+Escorpión rojo
+Anémona de mar
+Coral cerebro
+Esponja de mar
+Pepino de mar
+León marino
+Armiño
+Ardilla voladora
+Rata canguro
+Ardilla roja
+Gato montés
+Tigre siberiano
+Lagarto de cola espinosa
+Basilisco
+Anémona gigante
+Orca
+Tiburón blanco
+Tiburón martillo
+Tiburón toro
+Tiburón nodriza
+Tiburón peregrino
+Tiburón azul
+Gamba
+Calandria
+Tilapia
+Caracol de agua
+Perezoso
+Iguana rayada
+Víbora de Gabón
+Escarabajo rinoceronte
+Foca monje
+Vaca marina
+Langostino gigante
+Armadillo gigante
+Oso pardo
+Culebra verde
+Serpiente del maíz
+Tortuga laúd
+Cobra real
+Pato mandarín
+Rana arbórea
+Golondrina marina
+Ciervo almizclero
+Loro gris africano
+Tiburón sierra
+Murciélago pescador
+Erizo africano
+Monstruo de Gila
+Tarántula de rodillas rojas
+Cangrejo violinista
+Anguila eléctrica
+Ave del terror
+Gallo de roca
+Ratón espinoso de Egipto
+Ajolote albino
+Caracol cono
+Ballena jorobada
+Perico australiano
+Cangrejo gigante japonés
+Mono aullador
+Perico esmeralda
+Langosta espinosa
+Gallo de roca andino
+Zorro plateado
+Lobo ártico
+Elefante asiático
+Gato de la selva
+Puma del este
+Serpiente del rey
+Guacamayo jacinto
+Mariposa de cristal
+Luciérnaga azul
+Araña lobo
+Pez mandarín
+Cangrejo de coco
+Oso de anteojos
+Tortuga pintada
+Tiburón duende
+León africano
+Mapache de cría
+Oso panda rojo
+Nutria marina
+Tiburón tigre de arena
+Oso negro americano
+Gorrión alidorado
+Ave del sol
+Picozapato
+Salamandra gigante
+Perdiz nival
